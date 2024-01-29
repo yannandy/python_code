@@ -1,6 +1,6 @@
 #The goal of this code is to take a camelCase or PascalCase and convert it in snake_case.
-#A PascalCase is a string starting with an uppercase letter and which contain lowercase or uppercase letters.
-#A camelCase is a string starting with an lowercase letter and which contain lowercase or uppercase letters.
+#A PascalCase is a string starting with an uppercase letter and which contains lowercase or uppercase letters.
+#A camelCase is a string starting with an lowercase letter and which contains lowercase or uppercase letters.
 #A snake_case starting with a lowercase letter and each uppercase letter inside is converted to lowercase preceded by an underscore.
 
 
