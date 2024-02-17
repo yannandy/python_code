@@ -15,8 +15,8 @@ def factorial_digits_sum(result_factoriel):
 
 def main():
     n = 100
-    results = factorial_digits_sum(get_factorial(n))
-    print(results)
+    result = factorial_digits_sum(get_factorial(n))
+    print(result)
 
 if __name__ == '__main__':
     main()
